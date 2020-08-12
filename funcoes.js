@@ -1,0 +1,1 @@
+window alert("BEM VINDO!!! AS MELHORES RECEITAS ESTÃO AQUI...");
